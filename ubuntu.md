@@ -11,3 +11,4 @@ Make sure it's not commented out (it is commented out if it is preceded by the s
 
 ### Markdown tutorial
  - https://github.com/tholman/tutorial-markdown
+ - https://github.com/tal-baum/dynamic-markdown
