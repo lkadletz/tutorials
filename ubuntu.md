@@ -15,3 +15,4 @@ Make sure it's not commented out (it is commented out if it is preceded by the s
 
 ### Ubuntu battery saver
  - https://www.omgubuntu.co.uk/2019/05/slimbook-battery-optimizer-ubuntu
+ - AMD - https://slimbook.es/en/tutoriales/aplicaciones-slimbook/494-slimbook-amd-controller-en
