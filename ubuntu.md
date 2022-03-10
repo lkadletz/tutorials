@@ -12,3 +12,6 @@ Make sure it's not commented out (it is commented out if it is preceded by the s
 ### Markdown tutorial
  - https://github.com/tholman/tutorial-markdown
  - https://github.com/tal-baum/dynamic-markdown
+
+### Ubuntu battery saver
+ - https://www.omgubuntu.co.uk/2019/05/slimbook-battery-optimizer-ubuntu
